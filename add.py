@@ -37,6 +37,8 @@ def main():
     print(f"Difference of {num1} and {num2}: {difference}")
     print(f"Product of {num1} and {num2}: {product}")
 
+    print(f"Product of {num1} and {num2}: {product}")
+
 
 
 if __name__ == "__main__":
